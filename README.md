@@ -9,6 +9,6 @@
 ### Результаты
 1 тест
 ### Ссылки на баг-репорты
-[Bag](https://github.com/SergeyKulachenko/-Homework-3.2.2/issues/2#issue-652646402)
+[Ошибка при вычислении дополнительных бонусов](https://github.com/SergeyKulachenko/-Homework-3.2.2/issues/2#issue-652646402)
 ### Общие рекомендации
 ХЗ
